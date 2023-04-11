@@ -1,0 +1,22 @@
+.parent_EditText_Block {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  margin: 10px auto;
+  background-color: rgb(25, 83, 15);
+  border-radius: 8px;
+}
+
+.parent_EditText_Block input {
+  width: 390px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.parent_EditText_Block button {
+  height: 30px;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 0 10px;
+}
